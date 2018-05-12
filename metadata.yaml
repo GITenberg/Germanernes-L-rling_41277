@@ -15,6 +15,8 @@ creator:
     - http://de.wikipedia.org/wiki/Karl_Gjellerup
     - http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41277#Germanernes-L-rling
 gutenberg_issued: '2012-11-03'
 gutenberg_type: Text
 identifiers:
