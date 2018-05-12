@@ -1,0 +1,30 @@
+_repo: Germanernes-L-rling_41277
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41277-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gjellerup, Karl
+    alias: Gjellerup, Karl Adolph
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '5757'
+    url: http://www.gutenberg.org/2009/agents/5757
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Karl_Gjellerup
+    - http://en.wikipedia.org/wiki/Karl_Adolph_Gjellerup
+description: ''
+gutenberg_issued: '2012-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41277'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: Germanernes Lærling
+url: http://www.gutenberg.org/ebooks/41277
